@@ -1,4 +1,4 @@
-# Data Analysis Projects: Excel & Google Sheets
+# Data Analysis Portfolio Projects: Excel & Google Sheets
 
 In this project, I demonstrated my practical skills in working with Excel and Google Sheets.
 The project encompasses the entire data lifecycle, from data cleaning, processing, and analysis to the creation of dynamic reports and visualizations that facilitate informed decision-making.

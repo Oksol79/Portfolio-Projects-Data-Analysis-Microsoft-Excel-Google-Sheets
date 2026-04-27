@@ -93,7 +93,7 @@ As the source material for constructing the ontology, we will use tables with di
 The result of constructing the table is the establishment of binary relations between objects and properties. The rows of the table correspond to objects of the subject area, and the columns reflect the set of properties of these objects (Table 1).  
 Table 1 - Example of a tabular representation of diagnostic information about objects and their properties
 
-<img width="532" height="278" alt="image" src="https://github.com/user-attachments/assets/c569ff69-94e3-46ad-b764-6eff5b9b5724" />
+<img width="1909" height="847" alt="511498696-88bd6c3a-7f93-4e10-8ff6-0a9e6e620950" src="https://github.com/user-attachments/assets/ccc0b74b-b1cd-45e1-aa63-ded8eedb5227" />
 
 To build the class structure, the following tasks were solved:  
 - formation of initial data on the subject area.

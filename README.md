@@ -99,7 +99,7 @@ To build the class structure, the following tasks were solved:
 - formation of initial data on the subject area.
 - analysis of relationships between objects and properties.  
 
-o solve the first task, the knowledge of diagnostic experts was used to fill in the tables.    
+To solve the first task, the knowledge of diagnostic experts was used to fill in the tables.    
 To solve the second task, a method for automatically generating a taxonomy of concept classes was developed.     
 The basic information for distinguishing classes is the statement of the presence of certain properties in individual objects or groups of objects.    
 The method of forming a taxonomy of classes in a subject area is as follows. First, we form an abstract class structure:

@@ -112,8 +112,6 @@ The method of forming a taxonomy of classes in a subject area is as follows. Fir
 In the obtained abstract structure, we record real (those for which objects and properties are defined) and abstract classes (for which there is not enough diagnostic information yet).  
 The procedure for forming the class structure is iterative and allows us to detect incompleteness of the description of the subject area. If the number of abstract classes is relatively large (in percentage terms), then either the subject area has many exceptions, or the set of object properties is defined inefficiently.  
 
-<img width="1909" height="891" alt="image" src="https://github.com/user-attachments/assets/88bd6c3a-7f93-4e10-8ff6-0a9e6e620950" />
-
 As a result of processing the table with diagnostic information based on the proposed method, the following are performed:
  - Classification of objects of the subject area "Intelligent diagnostics of computer means".
  - Aggregation of objects (by combining them into classes).
